@@ -13,6 +13,7 @@
 		D64833332566DF21003E02BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D64833312566DF21003E02BD /* Main.storyboard */; };
 		D64833352566DF22003E02BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D64833342566DF22003E02BD /* Assets.xcassets */; };
 		D64833382566DF22003E02BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D64833362566DF22003E02BD /* LaunchScreen.storyboard */; };
+		D648334125672F8A003E02BD /* EditTextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D648334025672F8A003E02BD /* EditTextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D64833342566DF22003E02BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D64833372566DF22003E02BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D64833392566DF22003E02BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D648334025672F8A003E02BD /* EditTextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D64833342566DF22003E02BD /* Assets.xcassets */,
 				D64833362566DF22003E02BD /* LaunchScreen.storyboard */,
 				D64833392566DF22003E02BD /* Info.plist */,
+				D648334025672F8A003E02BD /* EditTextViewController.swift */,
 			);
 			path = ViewsCommunication;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D64833302566DF21003E02BD /* ViewController.swift in Sources */,
+				D648334125672F8A003E02BD /* EditTextViewController.swift in Sources */,
 				D648332C2566DF21003E02BD /* AppDelegate.swift in Sources */,
 				D648332E2566DF21003E02BD /* SceneDelegate.swift in Sources */,
 			);
